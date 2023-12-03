@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ECUJVRTA
 
 [Document3]
 DocumentPath=Library\Schlib1.SchLib
@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FRLKTYAG
 
 [Configuration1]
 Name=Sources
