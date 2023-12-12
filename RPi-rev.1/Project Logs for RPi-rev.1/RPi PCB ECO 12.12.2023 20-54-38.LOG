@@ -1,0 +1,1317 @@
+Added Component: Designator=C1(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(PCAP_SVP_C6_PAN)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C-1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(PCAP_SVP_C6_PAN)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(C-1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C17(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C19(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(C-1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C27(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C28(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C29(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C30(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C32(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C34(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C35(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C37(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C38(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C39(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C40(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C41(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C42(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C43(C-0805-KEM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C44(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C45(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C46(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C47(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C48(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C49(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C50(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C51(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C52(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C53(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C54(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C55(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C56(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C57(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C58(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C59(C-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C60(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C61(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C62(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C63(Ñ-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Coef"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D*(MF05A_TEX-L)
+Added Component: Designator=DA1(D2PAK3_ONS)
+Added Component: Designator=DA2(D2PAK3_ONS)
+Added Component: Designator=DA3(DQA0010A)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ESD224"; VariantName = "[No Variations]"
+Added Component: Designator=DA4(DQA0010A)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ESD224"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(BGA81C65P18X18_1200X1200X100)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "bcm2835"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(QFN64_9x9MC_MCH)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LAN9512"; VariantName = "[No Variations]"
+Added Component: Designator=FU1(FUSE_1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "F-1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL1(LED_DIALIGHT_598_DIA)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LTST-C191KFKT"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED_DIALIGHT_598_DIA)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LTST-C191KFKT"; VariantName = "[No Variations]"
+Added Component: Designator=HL3(LED_DIALIGHT_598_DIA)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LTST-C191KFKT"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND_NC_SUM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "L-1210"; VariantName = "[No Variations]"
+Added Component: Designator=L2(FB-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=L3(FB-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=L4(FB-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k8"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k8"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k8"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k8"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8k2"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k9"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R-0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SMB_STM)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SMBJ 5V"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(SS14)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SS24"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SS14)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SS24"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(26 pin 2.54mm pitch 2 row)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PLS-26-2"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(504077-1891_MOL)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "kls1-tf"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN5_1981568-1_TEC
+Added Component: Designator=XS2(mini HDMI)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Mini HDMI"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN5_1981568-1_TEC
+Added Component: Designator=XS4(CONN8_2041126-1_TEC)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "kls1-tf"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN5_1981568-1_TEC
+Added Component: Designator=ZQ1(CRYSTAL_TXC_7B)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TXC19.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ZQ2(CRYSTAL_TXC_7B)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TXC19.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1.8 Pin=C2-2
+Added Pin To Net: NetName=+1.8 Pin=C15-2
+Added Pin To Net: NetName=+1.8 Pin=C16-2
+Added Pin To Net: NetName=+1.8 Pin=C17-2
+Added Pin To Net: NetName=+1.8 Pin=C19-2
+Added Pin To Net: NetName=+1.8 Pin=C22-2
+Added Pin To Net: NetName=+1.8 Pin=C24-2
+Added Pin To Net: NetName=+1.8 Pin=C53-2
+Added Pin To Net: NetName=+1.8 Pin=C58-2
+Added Pin To Net: NetName=+1.8 Pin=DD1-A16
+Added Pin To Net: NetName=+1.8 Pin=DD1-B15
+Added Pin To Net: NetName=+1.8 Pin=DD1-B16
+Added Pin To Net: NetName=+1.8 Pin=DD1-K1
+Added Pin To Net: NetName=+1.8 Pin=DD1-K17
+Added Pin To Net: NetName=+1.8 Pin=DD1-N13
+Added Pin To Net: NetName=+1.8 Pin=DD1-P9
+Added Pin To Net: NetName=+1.8 Pin=DD1-T3
+Added Pin To Net: NetName=+1.8 Pin=DD1-U17
+Added Pin To Net: NetName=+1.8 Pin=DD1-V18
+Added Pin To Net: NetName=+1.8 Pin=DD2-15
+Added Pin To Net: NetName=+1.8 Pin=DD2-38
+Added Pin To Net: NetName=+1.8 Pin=L2-1
+Added Net: Name=+1.8
+Added Pin To Net: NetName=+2.5 Pin=C13-2
+Added Pin To Net: NetName=+2.5 Pin=C14-2
+Added Pin To Net: NetName=+2.5 Pin=D*-5
+Added Pin To Net: NetName=+2.5 Pin=DA2-1
+Added Net: Name=+2.5
+Added Pin To Net: NetName=+3.3 Pin=C10-1
+Added Pin To Net: NetName=+3.3 Pin=C12-2
+Added Pin To Net: NetName=+3.3 Pin=C21-2
+Added Pin To Net: NetName=+3.3 Pin=C44-2
+Added Pin To Net: NetName=+3.3 Pin=C45-2
+Added Pin To Net: NetName=+3.3 Pin=C47-1
+Added Pin To Net: NetName=+3.3 Pin=C48-1
+Added Pin To Net: NetName=+3.3 Pin=C49-1
+Added Pin To Net: NetName=+3.3 Pin=C54-2
+Added Pin To Net: NetName=+3.3 Pin=C56-2
+Added Pin To Net: NetName=+3.3 Pin=C57-2
+Added Pin To Net: NetName=+3.3 Pin=C59-2
+Added Pin To Net: NetName=+3.3 Pin=D*-1
+Added Pin To Net: NetName=+3.3 Pin=D*-3
+Added Pin To Net: NetName=+3.3 Pin=DD1-E4
+Added Pin To Net: NetName=+3.3 Pin=DD1-E7
+Added Pin To Net: NetName=+3.3 Pin=DD1-E8
+Added Pin To Net: NetName=+3.3 Pin=DD1-H4
+Added Pin To Net: NetName=+3.3 Pin=DD1-K5
+Added Pin To Net: NetName=+3.3 Pin=DD1-L5
+Added Pin To Net: NetName=+3.3 Pin=DD1-P13
+Added Pin To Net: NetName=+3.3 Pin=DD2-5
+Added Pin To Net: NetName=+3.3 Pin=DD2-10
+Added Pin To Net: NetName=+3.3 Pin=DD2-11
+Added Pin To Net: NetName=+3.3 Pin=DD2-19
+Added Pin To Net: NetName=+3.3 Pin=DD2-27
+Added Pin To Net: NetName=+3.3 Pin=DD2-28
+Added Pin To Net: NetName=+3.3 Pin=DD2-33
+Added Pin To Net: NetName=+3.3 Pin=DD2-40
+Added Pin To Net: NetName=+3.3 Pin=DD2-46
+Added Pin To Net: NetName=+3.3 Pin=DD2-49
+Added Pin To Net: NetName=+3.3 Pin=DD2-51
+Added Pin To Net: NetName=+3.3 Pin=DD2-54
+Added Pin To Net: NetName=+3.3 Pin=DD2-57
+Added Pin To Net: NetName=+3.3 Pin=DD2-64
+Added Pin To Net: NetName=+3.3 Pin=L3-1
+Added Pin To Net: NetName=+3.3 Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=R3-2
+Added Pin To Net: NetName=+3.3 Pin=R4-2
+Added Pin To Net: NetName=+3.3 Pin=R5-2
+Added Pin To Net: NetName=+3.3 Pin=R18-1
+Added Pin To Net: NetName=+3.3 Pin=R19-1
+Added Pin To Net: NetName=+3.3 Pin=R20-2
+Added Pin To Net: NetName=+3.3 Pin=R22-1
+Added Pin To Net: NetName=+3.3 Pin=R23-1
+Added Pin To Net: NetName=+3.3 Pin=R24-1
+Added Pin To Net: NetName=+3.3 Pin=R25-1
+Added Pin To Net: NetName=+3.3 Pin=R26-1
+Added Pin To Net: NetName=+3.3 Pin=XP1-1
+Added Pin To Net: NetName=+3.3 Pin=XP1-17
+Added Pin To Net: NetName=+3.3 Pin=XP2-4
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=+5 Pin=C25-1
+Added Pin To Net: NetName=+5 Pin=C29-1
+Added Pin To Net: NetName=+5 Pin=DA1-1
+Added Pin To Net: NetName=+5 Pin=DD1-A13
+Added Pin To Net: NetName=+5 Pin=DD1-A14
+Added Pin To Net: NetName=+5 Pin=DD1-A15
+Added Pin To Net: NetName=+5 Pin=DD1-B13
+Added Pin To Net: NetName=+5 Pin=DD1-B14
+Added Pin To Net: NetName=+5 Pin=FU1-2
+Added Pin To Net: NetName=+5 Pin=R6-2
+Added Pin To Net: NetName=+5 Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=R21-2
+Added Pin To Net: NetName=+5 Pin=R27-2
+Added Pin To Net: NetName=+5 Pin=VD1-2
+Added Pin To Net: NetName=+5 Pin=XP1-2
+Added Pin To Net: NetName=+5 Pin=XP1-4
+Added Pin To Net: NetName=+5 Pin=XS2-18
+Added Net: Name=+5
+Added Pin To Net: NetName=25MHz_I Pin=C50-1
+Added Pin To Net: NetName=25MHz_I Pin=DD2-61
+Added Pin To Net: NetName=25MHz_I Pin=ZQ2-3
+Added Net: Name=25MHz_I
+Added Pin To Net: NetName=25MHz_O Pin=C51-1
+Added Pin To Net: NetName=25MHz_O Pin=DD2-60
+Added Pin To Net: NetName=25MHz_O Pin=ZQ2-1
+Added Net: Name=25MHz_O
+Added Pin To Net: NetName=CMD Pin=R10-2
+Added Pin To Net: NetName=CMD Pin=XP2-3
+Added Net: Name=CMD
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=GND Pin=D*-2
+Added Pin To Net: NetName=GND Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA2-3
+Added Pin To Net: NetName=GND Pin=DA3-3
+Added Pin To Net: NetName=GND Pin=DA3-8
+Added Pin To Net: NetName=GND Pin=DA4-3
+Added Pin To Net: NetName=GND Pin=DA4-8
+Added Pin To Net: NetName=GND Pin=DD1-A1
+Added Pin To Net: NetName=GND Pin=DD1-A2
+Added Pin To Net: NetName=GND Pin=DD1-A3
+Added Pin To Net: NetName=GND Pin=DD1-A11
+Added Pin To Net: NetName=GND Pin=DD1-A12
+Added Pin To Net: NetName=GND Pin=DD1-A17
+Added Pin To Net: NetName=GND Pin=DD1-A18
+Added Pin To Net: NetName=GND Pin=DD1-B1
+Added Pin To Net: NetName=GND Pin=DD1-B2
+Added Pin To Net: NetName=GND Pin=DD1-B11
+Added Pin To Net: NetName=GND Pin=DD1-B12
+Added Pin To Net: NetName=GND Pin=DD1-B17
+Added Pin To Net: NetName=GND Pin=DD1-B18
+Added Pin To Net: NetName=GND Pin=DD1-C2
+Added Pin To Net: NetName=GND Pin=DD1-D16
+Added Pin To Net: NetName=GND Pin=DD1-E3
+Added Pin To Net: NetName=GND Pin=DD1-E14
+Added Pin To Net: NetName=GND Pin=DD1-F13
+Added Pin To Net: NetName=GND Pin=DD1-F14
+Added Pin To Net: NetName=GND Pin=DD1-F18
+Added Pin To Net: NetName=GND Pin=DD1-H9
+Added Pin To Net: NetName=GND Pin=DD1-H10
+Added Pin To Net: NetName=GND Pin=DD1-H11
+Added Pin To Net: NetName=GND Pin=DD1-H17
+Added Pin To Net: NetName=GND Pin=DD1-J2
+Added Pin To Net: NetName=GND Pin=DD1-J7
+Added Pin To Net: NetName=GND Pin=DD1-J8
+Added Pin To Net: NetName=GND Pin=DD1-J9
+Added Pin To Net: NetName=GND Pin=DD1-J10
+Added Pin To Net: NetName=GND Pin=DD1-J11
+Added Pin To Net: NetName=GND Pin=DD1-J12
+Added Pin To Net: NetName=GND Pin=DD1-J13
+Added Pin To Net: NetName=GND Pin=DD1-K7
+Added Pin To Net: NetName=GND Pin=DD1-K8
+Added Pin To Net: NetName=GND Pin=DD1-K9
+Added Pin To Net: NetName=GND Pin=DD1-K10
+Added Pin To Net: NetName=GND Pin=DD1-K11
+Added Pin To Net: NetName=GND Pin=DD1-K12
+Added Pin To Net: NetName=GND Pin=DD1-K13
+Added Pin To Net: NetName=GND Pin=DD1-K14
+Added Pin To Net: NetName=GND Pin=DD1-K16
+Added Pin To Net: NetName=GND Pin=DD1-L2
+Added Pin To Net: NetName=GND Pin=DD1-L7
+Added Pin To Net: NetName=GND Pin=DD1-L8
+Added Pin To Net: NetName=GND Pin=DD1-L9
+Added Pin To Net: NetName=GND Pin=DD1-L10
+Added Pin To Net: NetName=GND Pin=DD1-L11
+Added Pin To Net: NetName=GND Pin=DD1-L14
+Added Pin To Net: NetName=GND Pin=DD1-M8
+Added Pin To Net: NetName=GND Pin=DD1-M9
+Added Pin To Net: NetName=GND Pin=DD1-M15
+Added Pin To Net: NetName=GND Pin=DD1-N1
+Added Pin To Net: NetName=GND Pin=DD1-N18
+Added Pin To Net: NetName=GND Pin=DD1-P16
+Added Pin To Net: NetName=GND Pin=DD1-T14
+Added Pin To Net: NetName=GND Pin=DD1-T18
+Added Pin To Net: NetName=GND Pin=DD1-U6
+Added Pin To Net: NetName=GND Pin=DD1-U18
+Added Pin To Net: NetName=GND Pin=DD1-V1
+Added Pin To Net: NetName=GND Pin=DD1-V6
+Added Pin To Net: NetName=GND Pin=DD1-V17
+Added Pin To Net: NetName=GND Pin=DD2-34
+Added Pin To Net: NetName=GND Pin=DD2-44
+Added Pin To Net: NetName=GND Pin=DD2-65
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=XP1-6
+Added Pin To Net: NetName=GND Pin=XP1-9
+Added Pin To Net: NetName=GND Pin=XP1-14
+Added Pin To Net: NetName=GND Pin=XP1-20
+Added Pin To Net: NetName=GND Pin=XP1-25
+Added Pin To Net: NetName=GND Pin=XP2-6
+Added Pin To Net: NetName=GND Pin=XP2-9
+Added Pin To Net: NetName=GND Pin=XP2-10
+Added Pin To Net: NetName=GND Pin=XP2-11
+Added Pin To Net: NetName=GND Pin=XP2-12
+Added Pin To Net: NetName=GND Pin=XP2-13
+Added Pin To Net: NetName=GND Pin=XP2-14
+Added Pin To Net: NetName=GND Pin=XP2-15
+Added Pin To Net: NetName=GND Pin=XP2-16
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-5
+Added Pin To Net: NetName=GND Pin=XS2-8
+Added Pin To Net: NetName=GND Pin=XS2-11
+Added Pin To Net: NetName=GND Pin=XS2-17
+Added Pin To Net: NetName=GND Pin=XS2-19
+Added Pin To Net: NetName=GND Pin=XS2-20
+Added Pin To Net: NetName=GND Pin=XS2-21
+Added Pin To Net: NetName=GND Pin=XS4-9
+Added Pin To Net: NetName=GND Pin=XS4-10
+Added Pin To Net: NetName=GND Pin=ZQ1-2
+Added Pin To Net: NetName=GND Pin=ZQ1-4
+Added Pin To Net: NetName=GND Pin=ZQ2-2
+Added Pin To Net: NetName=GND Pin=ZQ2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_GCLK Pin=DD1-H1
+Added Pin To Net: NetName=GPIO_GCLK Pin=XP1-7
+Added Net: Name=GPIO_GCLK
+Added Pin To Net: NetName=GPIO_GEN0 Pin=DD1-E1
+Added Pin To Net: NetName=GPIO_GEN0 Pin=XP1-11
+Added Net: Name=GPIO_GEN0
+Added Pin To Net: NetName=GPIO_GEN1 Pin=DD1-B4
+Added Pin To Net: NetName=GPIO_GEN1 Pin=XP1-12
+Added Net: Name=GPIO_GEN1
+Added Pin To Net: NetName=GPIO_GEN2 Pin=DD1-C4
+Added Pin To Net: NetName=GPIO_GEN2 Pin=XP1-13
+Added Net: Name=GPIO_GEN2
+Added Pin To Net: NetName=GPIO_GEN3 Pin=DD1-B3
+Added Pin To Net: NetName=GPIO_GEN3 Pin=XP1-15
+Added Net: Name=GPIO_GEN3
+Added Pin To Net: NetName=GPIO_GEN4 Pin=DD1-C5
+Added Pin To Net: NetName=GPIO_GEN4 Pin=XP1-16
+Added Net: Name=GPIO_GEN4
+Added Pin To Net: NetName=GPIO_GEN5 Pin=DD1-A4
+Added Pin To Net: NetName=GPIO_GEN5 Pin=XP1-18
+Added Net: Name=GPIO_GEN5
+Added Pin To Net: NetName=GPIO_GEN6 Pin=DD1-A5
+Added Pin To Net: NetName=GPIO_GEN6 Pin=XP1-22
+Added Net: Name=GPIO_GEN6
+Added Pin To Net: NetName=HDMI_CEC Pin=C46-2
+Added Pin To Net: NetName=HDMI_CEC Pin=DD1-N9
+Added Pin To Net: NetName=HDMI_CEC Pin=XS2-13
+Added Net: Name=HDMI_CEC
+Added Pin To Net: NetName=HDMI_N_CLK Pin=DA3-7
+Added Pin To Net: NetName=HDMI_N_CLK Pin=XS2-12
+Added Net: Name=HDMI_N_CLK
+Added Pin To Net: NetName=HDMI_N_TX0 Pin=DA3-10
+Added Pin To Net: NetName=HDMI_N_TX0 Pin=XS2-9
+Added Net: Name=HDMI_N_TX0
+Added Pin To Net: NetName=HDMI_N_TX1 Pin=DA4-7
+Added Pin To Net: NetName=HDMI_N_TX1 Pin=XS2-6
+Added Net: Name=HDMI_N_TX1
+Added Pin To Net: NetName=HDMI_N_TX2 Pin=DA4-10
+Added Pin To Net: NetName=HDMI_N_TX2 Pin=XS2-3
+Added Net: Name=HDMI_N_TX2
+Added Pin To Net: NetName=HDMI_P_CLK Pin=DA3-6
+Added Pin To Net: NetName=HDMI_P_CLK Pin=XS2-10
+Added Net: Name=HDMI_P_CLK
+Added Pin To Net: NetName=HDMI_P_TX0 Pin=DA3-9
+Added Pin To Net: NetName=HDMI_P_TX0 Pin=XS2-7
+Added Net: Name=HDMI_P_TX0
+Added Pin To Net: NetName=HDMI_P_TX1 Pin=DA4-6
+Added Pin To Net: NetName=HDMI_P_TX1 Pin=XS2-4
+Added Net: Name=HDMI_P_TX1
+Added Pin To Net: NetName=HDMI_P_TX2 Pin=DA4-9
+Added Pin To Net: NetName=HDMI_P_TX2 Pin=XS2-1
+Added Net: Name=HDMI_P_TX2
+Added Pin To Net: NetName=HDMI_SCL_L Pin=DD1-R18
+Added Pin To Net: NetName=HDMI_SCL_L Pin=R6-1
+Added Pin To Net: NetName=HDMI_SCL_L Pin=XS2-15
+Added Net: Name=HDMI_SCL_L
+Added Pin To Net: NetName=HDMI_SDA_L Pin=DD1-R17
+Added Pin To Net: NetName=HDMI_SDA_L Pin=R7-1
+Added Pin To Net: NetName=HDMI_SDA_L Pin=XS2-16
+Added Net: Name=HDMI_SDA_L
+Added Pin To Net: NetName=LAN_RUN Pin=DD1-G1
+Added Pin To Net: NetName=LAN_RUN Pin=DD2-12
+Added Net: Name=LAN_RUN
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DD1-R8
+Added Pin To Net: NetName=NetC1_1 Pin=ZQ1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=DD1-R9
+Added Pin To Net: NetName=NetC3_1 Pin=ZQ1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=NetC7_2 Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-N7
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-N8
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-P7
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=C20-2
+Added Pin To Net: NetName=NetC18_2 Pin=DD1-D18
+Added Pin To Net: NetName=NetC18_2 Pin=DD1-G13
+Added Pin To Net: NetName=NetC18_2 Pin=DD1-H13
+Added Pin To Net: NetName=NetC18_2 Pin=DD1-J5
+Added Pin To Net: NetName=NetC18_2 Pin=DD1-L12
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=C27-2
+Added Pin To Net: NetName=NetC23_2 Pin=C28-2
+Added Pin To Net: NetName=NetC23_2 Pin=C36-2
+Added Pin To Net: NetName=NetC23_2 Pin=DD1-G15
+Added Pin To Net: NetName=NetC23_2 Pin=DD1-H18
+Added Pin To Net: NetName=NetC23_2 Pin=DD1-J1
+Added Pin To Net: NetName=NetC23_2 Pin=DD1-R3
+Added Pin To Net: NetName=NetC23_2 Pin=DD1-T9
+Added Pin To Net: NetName=NetC23_2 Pin=DD1-T17
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=C30-2
+Added Pin To Net: NetName=NetC26_2 Pin=C31-2
+Added Pin To Net: NetName=NetC26_2 Pin=C32-2
+Added Pin To Net: NetName=NetC26_2 Pin=C33-2
+Added Pin To Net: NetName=NetC26_2 Pin=C34-2
+Added Pin To Net: NetName=NetC26_2 Pin=C35-2
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-A7
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-A9
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-C15
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-D3
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-E15
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-G12
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-H5
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-H15
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-H16
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-K4
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-L13
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-L15
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-N4
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-N10
+Added Pin To Net: NetName=NetC26_2 Pin=DD1-P15
+Added Pin To Net: NetName=NetC26_2 Pin=L1-2
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=C38-2
+Added Pin To Net: NetName=NetC37_2 Pin=C39-2
+Added Pin To Net: NetName=NetC37_2 Pin=C40-2
+Added Pin To Net: NetName=NetC37_2 Pin=C41-2
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-A10
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-E18
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-F15
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-G14
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-G17
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-G18
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-J14
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-J16
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-K3
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-P18
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-T4
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-T12
+Added Pin To Net: NetName=NetC37_2 Pin=DD1-T16
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=DD1-M10
+Added Pin To Net: NetName=NetC42_1 Pin=L2-2
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=DD1-P10
+Added Pin To Net: NetName=NetC43_1 Pin=L3-2
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=NetC52_2 Pin=DD1-L18
+Added Pin To Net: NetName=NetC52_2 Pin=R16-2
+Added Net: Name=NetC52_2
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=NetC55_2 Pin=DD2-48
+Added Pin To Net: NetName=NetC55_2 Pin=L4-2
+Added Net: Name=NetC55_2
+Added Pin To Net: NetName=NetDA3_1 Pin=DA3-1
+Added Pin To Net: NetName=NetDA3_1 Pin=DD1-V7
+Added Net: Name=NetDA3_1
+Added Pin To Net: NetName=NetDA3_2 Pin=DA3-2
+Added Pin To Net: NetName=NetDA3_2 Pin=DD1-U7
+Added Net: Name=NetDA3_2
+Added Pin To Net: NetName=NetDA3_4 Pin=DA3-4
+Added Pin To Net: NetName=NetDA3_4 Pin=DD1-V8
+Added Net: Name=NetDA3_4
+Added Pin To Net: NetName=NetDA3_5 Pin=DA3-5
+Added Pin To Net: NetName=NetDA3_5 Pin=DD1-U8
+Added Net: Name=NetDA3_5
+Added Pin To Net: NetName=NetDA4_1 Pin=DA4-1
+Added Pin To Net: NetName=NetDA4_1 Pin=DD1-V9
+Added Net: Name=NetDA4_1
+Added Pin To Net: NetName=NetDA4_2 Pin=DA4-2
+Added Pin To Net: NetName=NetDA4_2 Pin=DD1-U9
+Added Net: Name=NetDA4_2
+Added Pin To Net: NetName=NetDA4_4 Pin=DA4-4
+Added Pin To Net: NetName=NetDA4_4 Pin=DD1-V10
+Added Net: Name=NetDA4_4
+Added Pin To Net: NetName=NetDA4_5 Pin=DA4-5
+Added Pin To Net: NetName=NetDA4_5 Pin=DD1-U10
+Added Net: Name=NetDA4_5
+Added Pin To Net: NetName=NetDD1_C12 Pin=DD1-C12
+Added Pin To Net: NetName=NetDD1_C12 Pin=DD1-C13
+Added Pin To Net: NetName=NetDD1_C12 Pin=DD1-D12
+Added Pin To Net: NetName=NetDD1_C12 Pin=DD1-D13
+Added Pin To Net: NetName=NetDD1_C12 Pin=L1-1
+Added Net: Name=NetDD1_C12
+Added Pin To Net: NetName=NetDD1_D15 Pin=DD1-D15
+Added Pin To Net: NetName=NetDD1_D15 Pin=R2-1
+Added Net: Name=NetDD1_D15
+Added Pin To Net: NetName=NetDD1_H12 Pin=DD1-H12
+Added Pin To Net: NetName=NetDD1_H12 Pin=R1-2
+Added Net: Name=NetDD1_H12
+Added Pin To Net: NetName=NetDD1_K18 Pin=DD1-K18
+Added Pin To Net: NetName=NetDD1_K18 Pin=R8-2
+Added Net: Name=NetDD1_K18
+Added Pin To Net: NetName=NetDD1_L1 Pin=DD1-L1
+Added Pin To Net: NetName=NetDD1_L1 Pin=R11-1
+Added Net: Name=NetDD1_L1
+Added Pin To Net: NetName=NetDD1_L3 Pin=DD1-L3
+Added Pin To Net: NetName=NetDD1_L3 Pin=R13-1
+Added Net: Name=NetDD1_L3
+Added Pin To Net: NetName=NetDD1_L6 Pin=DD1-L6
+Added Pin To Net: NetName=NetDD1_L6 Pin=R14-1
+Added Net: Name=NetDD1_L6
+Added Pin To Net: NetName=NetDD1_M3 Pin=DD1-M3
+Added Pin To Net: NetName=NetDD1_M3 Pin=R12-1
+Added Net: Name=NetDD1_M3
+Added Pin To Net: NetName=NetDD1_M7 Pin=DD1-M7
+Added Pin To Net: NetName=NetDD1_M7 Pin=R9-1
+Added Net: Name=NetDD1_M7
+Added Pin To Net: NetName=NetDD1_N2 Pin=DD1-N2
+Added Pin To Net: NetName=NetDD1_N2 Pin=R10-1
+Added Net: Name=NetDD1_N2
+Added Pin To Net: NetName=NetDD2_20 Pin=DD2-20
+Added Pin To Net: NetName=NetDD2_20 Pin=HL2-2
+Added Net: Name=NetDD2_20
+Added Pin To Net: NetName=NetDD2_21 Pin=DD2-21
+Added Pin To Net: NetName=NetDD2_21 Pin=HL3-2
+Added Net: Name=NetDD2_21
+Added Pin To Net: NetName=NetDD2_41 Pin=DD2-41
+Added Pin To Net: NetName=NetDD2_41 Pin=R20-1
+Added Net: Name=NetDD2_41
+Added Pin To Net: NetName=NetDD2_50 Pin=DD2-50
+Added Pin To Net: NetName=NetDD2_50 Pin=R17-1
+Added Net: Name=NetDD2_50
+Added Pin To Net: NetName=NetDD2_62 Pin=DD2-62
+Added Pin To Net: NetName=NetDD2_62 Pin=L4-1
+Added Net: Name=NetDD2_62
+Added Pin To Net: NetName=NetDD2_63 Pin=DD2-63
+Added Pin To Net: NetName=NetDD2_63 Pin=R15-1
+Added Net: Name=NetDD2_63
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Net: Name=NetFU1_1
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_1 Pin=R5-1
+Added Net: Name=NetHL1_1
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_1 Pin=R18-2
+Added Net: Name=NetHL2_1
+Added Pin To Net: NetName=NetHL3_1 Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_1 Pin=R19-2
+Added Net: Name=NetHL3_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=VD2-2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=XS4-2
+Added Pin To Net: NetName=NetR26_2 Pin=XS4-5
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=VD3-2
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=RXD0 Pin=DD1-E2
+Added Pin To Net: NetName=RXD0 Pin=XP1-10
+Added Net: Name=RXD0
+Added Pin To Net: NetName=RxN Pin=C60-1
+Added Pin To Net: NetName=RxN Pin=DD2-53
+Added Pin To Net: NetName=RxN Pin=R22-2
+Added Pin To Net: NetName=RxN Pin=XS4-6
+Added Net: Name=RxN
+Added Pin To Net: NetName=RxP Pin=C61-1
+Added Pin To Net: NetName=RxP Pin=DD2-52
+Added Pin To Net: NetName=RxP Pin=R23-2
+Added Pin To Net: NetName=RxP Pin=XS4-4
+Added Net: Name=RxP
+Added Pin To Net: NetName=SCL0 Pin=DD1-H6
+Added Pin To Net: NetName=SCL0 Pin=R3-1
+Added Pin To Net: NetName=SCL0 Pin=XP1-5
+Added Net: Name=SCL0
+Added Pin To Net: NetName=SCL1 Pin=DD1-J4
+Added Net: Name=SCL1
+Added Pin To Net: NetName=SD_CLK Pin=R9-2
+Added Pin To Net: NetName=SD_CLK Pin=XP2-5
+Added Net: Name=SD_CLK
+Added Pin To Net: NetName=SD_DATA0 Pin=R11-2
+Added Pin To Net: NetName=SD_DATA0 Pin=XP2-7
+Added Net: Name=SD_DATA0
+Added Pin To Net: NetName=SD_DATA1 Pin=R12-2
+Added Pin To Net: NetName=SD_DATA1 Pin=XP2-8
+Added Net: Name=SD_DATA1
+Added Pin To Net: NetName=SD_DATA2 Pin=R13-2
+Added Pin To Net: NetName=SD_DATA2 Pin=XP2-1
+Added Net: Name=SD_DATA2
+Added Pin To Net: NetName=SD_DATA3 Pin=R14-2
+Added Pin To Net: NetName=SD_DATA3 Pin=XP2-2
+Added Net: Name=SD_DATA3
+Added Pin To Net: NetName=SDA0 Pin=DD1-H2
+Added Pin To Net: NetName=SDA0 Pin=R4-1
+Added Pin To Net: NetName=SDA0 Pin=XP1-3
+Added Net: Name=SDA0
+Added Pin To Net: NetName=SDA1 Pin=DD1-J6
+Added Net: Name=SDA1
+Added Pin To Net: NetName=SPI_CE0_N Pin=DD1-F1
+Added Pin To Net: NetName=SPI_CE0_N Pin=XP1-24
+Added Net: Name=SPI_CE0_N
+Added Pin To Net: NetName=SPI_CE1_N Pin=DD1-F2
+Added Pin To Net: NetName=SPI_CE1_N Pin=XP1-26
+Added Net: Name=SPI_CE1_N
+Added Pin To Net: NetName=SPI_CLK Pin=DD1-G4
+Added Pin To Net: NetName=SPI_CLK Pin=XP1-23
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_MISO Pin=DD1-G2
+Added Pin To Net: NetName=SPI_MISO Pin=XP1-21
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=DD1-G3
+Added Pin To Net: NetName=SPI_MOSI Pin=XP1-19
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=Status_LED_N Pin=DD1-C1
+Added Pin To Net: NetName=Status_LED_N Pin=HL1-2
+Added Net: Name=Status_LED_N
+Added Pin To Net: NetName=TXD0 Pin=DD1-D4
+Added Pin To Net: NetName=TXD0 Pin=XP1-8
+Added Net: Name=TXD0
+Added Pin To Net: NetName=TxN Pin=C63-1
+Added Pin To Net: NetName=TxN Pin=DD2-56
+Added Pin To Net: NetName=TxN Pin=R25-2
+Added Pin To Net: NetName=TxN Pin=XS4-3
+Added Net: Name=TxN
+Added Pin To Net: NetName=TxP Pin=C62-1
+Added Pin To Net: NetName=TxP Pin=DD2-55
+Added Pin To Net: NetName=TxP Pin=R24-2
+Added Pin To Net: NetName=TxP Pin=XS4-1
+Added Net: Name=TxP
+Added Pin To Net: NetName=USB_DM2 Pin=DD2-1
+Added Net: Name=USB_DM2
+Added Pin To Net: NetName=USB_DM3 Pin=DD2-3
+Added Net: Name=USB_DM3
+Added Pin To Net: NetName=USB_DM Pin=DD1-U16
+Added Pin To Net: NetName=USB_DM Pin=DD2-58
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP2 Pin=DD2-2
+Added Net: Name=USB_DP2
+Added Pin To Net: NetName=USB_DP3 Pin=DD2-4
+Added Net: Name=USB_DP3
+Added Pin To Net: NetName=USB_DP Pin=DD1-V16
+Added Pin To Net: NetName=USB_DP Pin=DD2-59
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=USB_VCC1 Pin=DD2-14
+Added Pin To Net: NetName=USB_VCC1 Pin=VD2-1
+Added Net: Name=USB_VCC1
+Added Pin To Net: NetName=USB_VCC2 Pin=DD2-16
+Added Pin To Net: NetName=USB_VCC2 Pin=VD3-1
+Added Net: Name=USB_VCC2
+Added Class: Name=HDMI
+Added Class: Name=LAN
+Added Class: Name=Power
+Added Room: Name=HDMI
+Added Room: Name=LAN
+Added Room: Name=Power
