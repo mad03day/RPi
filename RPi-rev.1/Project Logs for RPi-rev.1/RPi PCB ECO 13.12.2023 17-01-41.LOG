@@ -1,0 +1,67 @@
+Removed Member From Class: ClassName=Power Member=DA5
+Added Component: Designator=DA1(D2PAK3_ONS)
+Added Component: Designator=DA3(D2PAK3_ONS)
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=+3.3 Pin=DA1-2
+Added Pin To Net: NetName=+5 Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=+1.8 Pin=DA3-2
+Added Pin To Net: NetName=+2.5 Pin=DA3-3
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ8
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ16
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ17
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ18
+Added Member To Class: ClassName=Power Member=Component C1 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C2 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C5 C-0805 * * * * *
+Added Member To Class: ClassName=Power Member=Component C6 C * * * * *
+Added Member To Class: ClassName=Power Member=Component C7 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C9 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C10 C-0805 * * * * *
+Added Member To Class: ClassName=Power Member=Component C11 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C14 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C15 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C16 C-0805 * * * * *
+Added Member To Class: ClassName=Power Member=Component C17 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C19 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C26 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C28 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C30 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C32 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C34 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C35 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C36 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C38 C-0603 * * * * *
+Added Member To Class: ClassName=Power Member=Component C41 C-0603 * * * * *
+Added Member To Class: ClassName=HDMI Member=Component C42 C-0603 * * * * *
+Added Member To Class: ClassName=HDMI Member=Component C44 C-0603 * * * * *
+Added Member To Class: ClassName=HDMI Member=Component C46 C-0603 * * * * *
+Added Member To Class: ClassName=LAN Member=Component C52 C-0402 * * * * *
+Added Member To Class: ClassName=LAN Member=Component C54 C-0402 * * * * *
+Added Member To Class: ClassName=LAN Member=Component C58 C-0402 * * * * *
+Added Member To Class: ClassName=LAN Member=Component C61 C-0402 * * * * *
+Added Member To Class: ClassName=LAN Member=Component C62 C-0402 * * * * *
+Added Member To Class: ClassName=Power Member=Component DA1 NXP1117-3v3
+Added Member To Class: ClassName=Power Member=Component DA2 LP2980-2.5
+Added Member To Class: ClassName=Power Member=Component DA3 NXP1117-1v8
+Added Member To Class: ClassName=HDMI Member=Component DA4 ESD224 *
+Added Member To Class: ClassName=LAN Member=Component HL3 LTST-C191KFKT *
+Added Member To Class: ClassName=HDMI Member=Component L2 R-0402 * * * *
+Added Member To Class: ClassName=Power Member=Component R2 R-0603 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R4 R-0603 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R6 R-0603 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R8 R-0603 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R9 R-0603 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R10 R-0402 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R12 R-0402 * * * *
+Added Member To Class: ClassName=HDMI Member=Component R14 R-0402 * * * *
+Added Member To Class: ClassName=LAN Member=Component R16 R-0603 * * * *
+Added Member To Class: ClassName=LAN Member=Component R18 R-0603 * * * *
+Added Member To Class: ClassName=LAN Member=Component R21 R-0402 * * * *
+Added Member To Class: ClassName=LAN Member=Component R22 R-0402 * * * *
+Added Member To Class: ClassName=LAN Member=Component R23 R-0603 * * * *
+Added Member To Class: ClassName=LAN Member=Component R24 R-0603 * * * *
+Added Member To Class: ClassName=LAN Member=Component R26 R-0603 * * * *
+Added Member To Class: ClassName=LAN Member=Component VD2 SS24 *
+Added Member To Class: ClassName=LAN Member=Component XS3 Micro USB
+Added Member To Class: ClassName=LAN Member=Component XS4 Micro USB

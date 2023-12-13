@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=HDMI_TX1_P Pin=DA5-6
+Removed Pin From Net: NetName=HDMI_TX1_N Pin=DA5-7
+Removed Pin From Net: NetName=HDMI_TX2_P Pin=DA5-9
+Removed Pin From Net: NetName=HDMI_TX2_N Pin=DA5-10
+Removed Pin From Net: NetName=NetDA5_2 Pin=DD1-U9
+Removed Pin From Net: NetName=NetDA5_5 Pin=DD1-U10
+Removed Pin From Net: NetName=NetDA5_1 Pin=DD1-V9
+Removed Pin From Net: NetName=NetDA5_4 Pin=DD1-V10
+Added Pin To Net: NetName=HDMI_TX1_N Pin=DA5-6
+Added Pin To Net: NetName=HDMI_TX1_P Pin=DA5-7
+Added Pin To Net: NetName=HDMI_TX2_N Pin=DA5-9
+Added Pin To Net: NetName=HDMI_TX2_P Pin=DA5-10
+Added Pin To Net: NetName=NetDA5_1 Pin=DD1-U9
+Added Pin To Net: NetName=NetDA5_4 Pin=DD1-U10
+Added Pin To Net: NetName=NetDA5_2 Pin=DD1-V9
+Added Pin To Net: NetName=NetDA5_5 Pin=DD1-V10
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ8
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ16
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ17
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ18

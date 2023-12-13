@@ -1,0 +1,13 @@
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ8
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ16
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ17
+Add Pin To Net: Unknown Pin: Pin DD1-Ñ18
+Change Net Name : Old Net Name=HDMI_N_CLK New Net Name=HDMI_CLK_N
+Change Net Name : Old Net Name=HDMI_P_CLK New Net Name=HDMI_CLK_P
+Added Differential Pair: Name=HDMI_CLK
+Add Differential Pair: Number of nets in differential pair HDMI_N_TX0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_N_TX1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_N_TX2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_P_TX0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_P_TX1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_P_TX2 is 1 instead of 2
